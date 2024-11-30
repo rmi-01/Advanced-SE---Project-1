@@ -1,10 +1,10 @@
 
-currentWorkingDirectory = "D:\\Masters\\1st Semester\\Advanced SE\\Advanced-SE---Project-1"
+# currentWorkingDirectory = "D:\\Masters\\1st Semester\\Advanced SE\\Advanced-SE---Project-1"
 
 # -----------------------------------------------------------------------------
-import os
-os.chdir(currentWorkingDirectory)
-print("Current working directory\n" + os.getcwd())
+# import os
+# os.chdir(currentWorkingDirectory)
+# print("Current working directory\n" + os.getcwd())
 
 import pandas                        as pd
 from core import methods             as m1
